@@ -1,0 +1,6 @@
+s = raw_input ("Enter a string:")
+print "No of 'a' = %s" % s.count('a')
+print "No of 'e' = %s" % s.count('e')
+print "No of 'i' = %s" % s.count('i')
+print "No of 'o' = %s" % s.count('o')
+print "No of 'u' = %s" % s.count('u')
